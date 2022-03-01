@@ -1,2 +1,4 @@
 git commands
 $git config
+$git status
+$git init
